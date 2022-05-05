@@ -4,7 +4,7 @@ import requests
  
 # 連結網站
 response = requests.get(
-	"https://udn.com/author/articles/2/1911")
+	"https://udn.com/news/breaknews/1")
 
 # HTML原始碼解析
 soup = BeautifulSoup(response.text, "html.parser")
@@ -14,7 +14,7 @@ content=""
 data = soup.find_all("div", {"class": "story-list__text"})
  
 for index,d in enumerate(data):
-    if index <8:
+    if index <5:
         title=d.select_one("a").getText()  # 取得標題文字
         href=d.select_one("a").get("href")
         content += "{}\n{}\n".format(title, href)

@@ -33,7 +33,7 @@ def handle_message(event):
     msg = event.message.text
 
     if "美食" in msg:
-        result=food_crawler()
+        result=food()
         line_bot_api.reply_message(
             event.reply_token,
             TextSendMessage(text=result)
