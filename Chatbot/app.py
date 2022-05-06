@@ -38,6 +38,12 @@ def handle_message(event):
             event.reply_token,
             TextSendMessage(text=result)
         )
+    elif "今日新聞" in msg:
+        result=today()
+        line_bot_api.reply_message(
+            event.reply_token,
+            TextSendMessage(text=result)
+        )
     else:
         line_bot_api.reply_message(
             event.reply_token,
