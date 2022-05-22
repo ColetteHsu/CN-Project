@@ -1,0 +1,1134 @@
+
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928566.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Aries"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "牡羊座  3/21 - 4/19",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-牡羊座Aries"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928578.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Taurus"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "金牛座  4/20 - 5/20",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-金牛座Taurus"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928592.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Gemini"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "雙子座  5/21 - 6/20",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-雙子座Gemini"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928615.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Cancer"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "巨蟹座  6/21 - 7/22",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-巨蟹座Cancer"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928604.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Leo"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "獅子座  7/23 - 8/22",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-獅子座Leo"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928628.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Virgo"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "處女座  8/23 - 9/22",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-處女座Virgo"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928639.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Libra"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "天秤座  9/23 - 10/22",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-天秤座Libra"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928650.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Scorpio"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "天蠍座 10/23 - 11/21",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-天蠍座Scorpio"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928661.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Sagittarius"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "射手座  11/22 - 12/21",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-射手座Sagittarius"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928669.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Capricorn"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "魔羯座  12/22 - 1/19",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-魔羯座Capricorn"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928535.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Aquarius"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "水瓶座  1/20 - 2/18",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-水瓶座Aquarius"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn-icons-png.flaticon.com/512/5928/5928551.png",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://www.daily-zodiac.com/mobile/zodiac/Pisces"
+          },
+          "position": "relative",
+          "margin": "none",
+          "align": "center",
+          "animated": false
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "weight": "bold",
+              "size": "sm",
+              "text": "雙魚座  2/19 - 3/20",
+              "style": "normal",
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": []
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "今日運勢",
+                      "color": "#aaaaaa",
+                      "size": "sm",
+                      "flex": 4
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5,
+                      "text": "?點擊查看?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "message",
+                "label": "唐老師講評",
+                "text": "唐老師-雙魚座Pisces"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "margin": "sm"
+            }
+          ],
+          "flex": 0
+        }
+      }
+    ]
+  }

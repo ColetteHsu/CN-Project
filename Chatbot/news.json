@@ -1,0 +1,223 @@
+
+ 
+ 
+{
+  "type": "bubble",
+  "size": "micro",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "請選擇新聞類別...",
+        "size": "sm",
+        "color": "#88807D"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "疫情",
+          "text": "疫情"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "即時快訊",
+          "text": "即時"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "生活",
+          "text": "生活"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "科技趨勢",
+          "text": "科技"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "電影",
+          "text": "電影"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "時尚",
+          "text": "時尚"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "國際",
+          "text": "國際"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "娛樂",
+          "text": "娛樂"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "運動",
+          "text": "運動"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      },
+      {
+        "type": "separator",
+        "color": "#88807D"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "美食",
+          "text": "美食"
+        },
+        "margin": "xs",
+        "style": "secondary",
+        "height": "sm",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "color": "#DCDDDF"
+      }
+    ],
+    "margin": "none",
+    "cornerRadius": "none",
+    "backgroundColor": "#DCDDDF"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#DCDDDF"
+    },
+    "footer": {
+      "backgroundColor": "#DCDDDF"
+    }
+  }
+}
+
